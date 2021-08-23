@@ -82,3 +82,5 @@ To compile your code from "src" directory to "lib", execute the following comman
 ```javascript
 npx babel src --out-dir lib
 ```
+
+The complete code for this post is hosted in this [git repository](https://github.com/mustafa-saleh/babel). To learn more about babel presets, plugins, config files and much more, refer to [babel documantation](https://babeljs.io/docs/en/).
