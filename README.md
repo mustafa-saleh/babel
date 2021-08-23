@@ -82,7 +82,3 @@ To compile your code from "src" directory to "lib", execute the following comman
 ```javascript
 npx babel src --out-dir lib
 ```
-
-```javascript
-
-```
